@@ -1,8 +1,13 @@
 
+<h1 align="center">
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=strogiyotec&show_icons=true&theme=radical)
 
-##### Hi, I'm Almas:
+</h1>
+
+<p align="center">
+My name is Almas and I am a Java Developer living in Canada. If you need any Java integrations or Database admistration don't hesitate to ask me
+</p>
 
 - 🎓 Bachelor of Computer Science 
 - :scissors: Senior Backend Developer specialized in Java backend technologies, who have worked with microservice architectures, streaming apps, SQL databases and CI/CD pipelines
