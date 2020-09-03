@@ -20,6 +20,13 @@
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
+![Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
+![Java](https://img.shields.io/badge/-Java-222222?style=flat&logo=java&logoColor=F05032)
+![Golang](https://img.shields.io/badge/-GoLang-222222?style=flat&logo=go&logoColor=F05032)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-222222?style=flat&logo=ubuntu&logoColor=F05032)
+![Postgres](https://img.shields.io/badge/-Postgres-222222?style=flat&logo=postgres&logoColor=F05032)
+![Rabbitmq](https://img.shields.io/badge/-Rabbitmq-222222?style=flat&logo=rabbitmq&logoColor=181717)
+![Neovim](https://img.shields.io/badge/-Neovim-222222?style=flat&logo=neovim&logoColor=F05032)
+
 
 
