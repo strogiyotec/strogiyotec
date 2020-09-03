@@ -17,16 +17,11 @@
 
 ##### Some of the technologies I have worked with
 
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
-![Java](https://img.shields.io/badge/-Java-222222?style=flat&logo=java&logoColor=F05032)
-![Golang](https://img.shields.io/badge/-GoLang-222222?style=flat&logo=go&logoColor=F05032)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-222222?style=flat&logo=ubuntu&logoColor=F05032)
-![Postgres](https://img.shields.io/badge/-Postgres-222222?style=flat&logo=postgres&logoColor=F05032)
-![Rabbitmq](https://img.shields.io/badge/-Rabbitmq-222222?style=flat&logo=rabbitmq&logoColor=181717)
-![Neovim](https://img.shields.io/badge/-Neovim-222222?style=flat&logo=neovim&logoColor=F05032)
-
-
-
+<code><a href="https:///" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+<code><a href="https://www.java.com/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
+<code><a href="https://go.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
+<code><a href="https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/index.html" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></a></code>
+<code><a href="https://github.com/neovim/neovim" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg"></a></code>
+<code><a href="https://www.postgresql.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code>
+<code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
