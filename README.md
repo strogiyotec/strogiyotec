@@ -5,8 +5,8 @@
 ##### Hi, I'm Almas:
 
 - 🎓 Bachelor of Computer Science 
-- :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
-- 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
+- :scissors: Senior Backend Developer specialized in Java backend technologies, who have worked with microservice architectures, streaming apps, SQL databases and CI/CD pipelines
+- :love_letter: Learn Japanese and read books in free time
 - :speech_balloon: Ask me about databases, JVM, algorithms, Linux, web, or literally anything!
 - :mailbox: You can reach me with the links below
 
