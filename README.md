@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-My name is Almas and I am a Java Developer living in Canada. If you need any Java integrations or Database admistration don't hesitate to ask me
+My name is Almas and I am a Java Developer living in Canada. If you need any Java integrations or Postgres admistration don't hesitate to ask me
 </p>
 
 - 🎓 Bachelor of Computer Science 
