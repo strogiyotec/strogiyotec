@@ -18,10 +18,12 @@
 ##### Some of the technologies I have worked with
 
 <code><a href="https:///" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-<code><a href="https://www.java.com/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
+<code><a href="https://www.java.com/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code>
 <code><a href="https://go.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
-<code><a href="https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/index.html" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></a></code>
-<code><a href="https://github.com/neovim/neovim" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg"></a></code>
+<code><a href="https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/index.html" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></a></code>
+<code><a href="https://github.com/neovim/neovim" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-ar21.svg"></a></code>
+<code><a href="https://github.com/apache/cassandra/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-ar21.svg"></a></code>
 <code><a href="https://www.postgresql.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code>
 <code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+<code><a href="https://www.nginx.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></a></code>
