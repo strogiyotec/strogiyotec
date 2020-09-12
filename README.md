@@ -18,7 +18,7 @@ My name is Almas and I am a Java Developer living in Canada. If you need any Jav
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/strogiyotec)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:almas337519@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/almas-abdrazak-01882515b/)
-[![strogiyotec.github.io/](https://img.shields.io/badge/-BLOG-000000?style=for-the-badge&logo=react&logoColor=white)](strogiyotec.github.io/)
+[![strogiyotec.github.io/](https://img.shields.io/badge/-BLOG-000000?style=for-the-badge&logo=react&logoColor=white)](https://strogiyotec.github.io/)
 
 ##### Some of the technologies I have worked with
 
