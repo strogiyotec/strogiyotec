@@ -11,7 +11,7 @@ My name is Almas and I am a Java Developer living in Canada. If you need any Jav
 
 - 🎓 Bachelor of Computer Science 
 - :scissors: Senior Backend Developer specialized in Java backend technologies, who have worked with microservice architectures, streaming apps, SQL databases and CI/CD pipelines
-- :love_letter: Learn Japanese and read books in free time
+- :love_letter: Learn Mandarin and read books in free time
 - :speech_balloon: Ask me about databases, JVM, algorithms, Linux, web, or literally anything!
 - :mailbox: You can reach me with the links below
 
